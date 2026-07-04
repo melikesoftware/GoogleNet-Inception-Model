@@ -6,6 +6,11 @@ This project implements a custom GoogLeNet (Inception) inspired Convolutional Ne
 
 Animal-10 Dataset
 
+The dataset used in this project is the Animal-10 dataset from Kaggle.
+
+You can download it here:
+
+[Animal-10 Dataset on Kaggle](https://www.kaggle.com/datasets/viratkothari/animal10)
 Classes:
 
 - Butterfly
