@@ -33,7 +33,7 @@ Final Test Accuracy: **75.87%**
 
 Train-Test Loss and Accuracy Graph:
 
-![Train-Test Loss and Accuracy Graph](results/training_graph.png)
+![Train-Test Loss and Accuracy Graph](results/Loss-Accuracy.png)
 
 ## Prediction Examples
 
