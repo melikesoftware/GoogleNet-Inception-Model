@@ -102,7 +102,7 @@ print(len(class_names))
 
 
 #Çoğu CNN'de kernel tek sayıysa padding genellikle =(kernel−1)/2
-#Bu yüzden YOLO'daki tüm 1×1 convolution katmanlarında padding=0, tüm 3×3 convolution katmanlarında ise padding=1 kullanılır.
+
 
 class Inception(nn.Module):
     def __init__(self,in_channels,c1,c3_reduce,c3,c5_reduce,c5,pool_proj):
